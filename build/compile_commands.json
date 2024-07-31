@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/wht/Code/WebServer/build",
+  "command": "/usr/bin/c++ -g -o CMakeFiles/WebServer.dir/main.cpp.o -c /home/wht/Code/WebServer/main.cpp",
+  "file": "/home/wht/Code/WebServer/main.cpp",
+  "output": "CMakeFiles/WebServer.dir/main.cpp.o"
+}
+]
